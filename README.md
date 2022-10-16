@@ -1,3 +1,7 @@
+# Simple Slider React Example
+This project created by bun for testing simpleSlider (npm i simpleslider-ssjs)
+# Go To [Documentation](https://github.com/bb7hn/SimpleSlider)
+
 # React with Bun runtime
 
 This is a React project bootstrapped with [bun](https://bun.sh/).
