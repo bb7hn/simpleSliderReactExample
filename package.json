@@ -4,6 +4,7 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "simpleslider-ssjs": "^0.0.2",
     "web-vitals": "^3.0.3"
   },
   "eslintConfig": {
@@ -12,7 +13,11 @@
     ]
   },
   "devDependencies": {
-    "typescript": "latest",
-    "react-refresh": "0.10.0"
+    "react-refresh": "0.10.0",
+    "typescript": "latest"
+  },
+  "scripts": {
+    "start": "bun dev",
+    "build": "react-scripts build"
   }
 }
